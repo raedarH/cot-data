@@ -1,0 +1,596 @@
+{
+  "0": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-13",
+    "long": 182212,
+    "short": 155229,
+    "longChange": 0,
+    "shortChange": -3754,
+    "netPositions": 26983
+  },
+  "1": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-06",
+    "long": 185799,
+    "short": 152219,
+    "longChange": 0,
+    "shortChange": 3805,
+    "netPositions": 33580
+  },
+  "2": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-30",
+    "long": 183006,
+    "short": 165207,
+    "longChange": 0,
+    "shortChange": -4723,
+    "netPositions": 17799
+  },
+  "3": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-23",
+    "long": 188929,
+    "short": 153023,
+    "longChange": 0,
+    "shortChange": 22771,
+    "netPositions": 35906
+  },
+  "4": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-16",
+    "long": 179937,
+    "short": 155188,
+    "longChange": 0,
+    "shortChange": 11985,
+    "netPositions": 24749
+  },
+  "5": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-09",
+    "long": 165829,
+    "short": 162206,
+    "longChange": 0,
+    "shortChange": 371,
+    "netPositions": 3623
+  },
+  "6": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-02",
+    "long": 164369,
+    "short": 173888,
+    "longChange": 0,
+    "shortChange": -13192,
+    "netPositions": -9519
+  },
+  "7": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-25",
+    "long": 167370,
+    "short": 175801,
+    "longChange": 0,
+    "shortChange": -301,
+    "netPositions": -8431
+  },
+  "8": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-18",
+    "long": 171464,
+    "short": 163513,
+    "longChange": 0,
+    "shortChange": -62506,
+    "netPositions": 7951
+  },
+  "9": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-11",
+    "long": 187697,
+    "short": 144053,
+    "longChange": 0,
+    "shortChange": 41158,
+    "netPositions": 43644
+  },
+  "10": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-04",
+    "long": 188957,
+    "short": 121087,
+    "longChange": 0,
+    "shortChange": 6872,
+    "netPositions": 67870
+  },
+  "11": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-28",
+    "long": 184656,
+    "short": 127084,
+    "longChange": 0,
+    "shortChange": 11783,
+    "netPositions": 57572
+  },
+  "12": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-21",
+    "long": 182574,
+    "short": 141099,
+    "longChange": 0,
+    "shortChange": -3721,
+    "netPositions": 41475
+  },
+  "13": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-14",
+    "long": 178398,
+    "short": 161243,
+    "longChange": 0,
+    "shortChange": 1998,
+    "netPositions": 17155
+  },
+  "14": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-07",
+    "long": 170594,
+    "short": 166004,
+    "longChange": 0,
+    "shortChange": 2507,
+    "netPositions": 4590
+  },
+  "15": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-30",
+    "long": 167185,
+    "short": 173962,
+    "longChange": 0,
+    "shortChange": -13474,
+    "netPositions": -6777
+  },
+  "16": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-23",
+    "long": 167296,
+    "short": 177285,
+    "longChange": 0,
+    "shortChange": 6906,
+    "netPositions": -9989
+  },
+  "17": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-16",
+    "long": 178912,
+    "short": 166688,
+    "longChange": 0,
+    "shortChange": 15369,
+    "netPositions": 12224
+  },
+  "18": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-09",
+    "long": 175419,
+    "short": 142696,
+    "longChange": 0,
+    "shortChange": -39272,
+    "netPositions": 32723
+  },
+  "19": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-02",
+    "long": 188258,
+    "short": 171464,
+    "longChange": 0,
+    "shortChange": 25468,
+    "netPositions": 16794
+  },
+  "20": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-26",
+    "long": 180193,
+    "short": 148999,
+    "longChange": 0,
+    "shortChange": 1118,
+    "netPositions": 31194
+  },
+  "21": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-19",
+    "long": 182382,
+    "short": 134040,
+    "longChange": 0,
+    "shortChange": -61538,
+    "netPositions": 48342
+  },
+  "22": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-12",
+    "long": 193998,
+    "short": 119591,
+    "longChange": 0,
+    "shortChange": 10612,
+    "netPositions": 74407
+  },
+  "23": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-05",
+    "long": 200025,
+    "short": 133714,
+    "longChange": 0,
+    "shortChange": -8437,
+    "netPositions": 66311
+  },
+  "24": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-27",
+    "long": 205234,
+    "short": 142380,
+    "longChange": 0,
+    "shortChange": -6754,
+    "netPositions": 62854
+  },
+  "25": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-20",
+    "long": 213194,
+    "short": 145178,
+    "longChange": 0,
+    "shortChange": -17806,
+    "netPositions": 68016
+  },
+  "26": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-13",
+    "long": 210848,
+    "short": 158010,
+    "longChange": 0,
+    "shortChange": 8114,
+    "netPositions": 52838
+  },
+  "27": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-06",
+    "long": 202450,
+    "short": 140297,
+    "longChange": 0,
+    "shortChange": 4781,
+    "netPositions": 62153
+  },
+  "28": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-30",
+    "long": 200360,
+    "short": 111589,
+    "longChange": 0,
+    "shortChange": 1787,
+    "netPositions": 88771
+  },
+  "29": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-23",
+    "long": 195190,
+    "short": 106866,
+    "longChange": 0,
+    "shortChange": -7668,
+    "netPositions": 88324
+  },
+  "30": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-16",
+    "long": 204294,
+    "short": 100202,
+    "longChange": 0,
+    "shortChange": 19012,
+    "netPositions": 104092
+  },
+  "31": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-09",
+    "long": 208473,
+    "short": 89596,
+    "longChange": 0,
+    "shortChange": -4806,
+    "netPositions": 118877
+  },
+  "32": {
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-02",
+    "long": 211912,
+    "short": 92436,
+    "longChange": 0,
+    "shortChange": 13258,
+    "netPositions": 119476
+  },
+  "33": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-08-13",
+    "long": 33686,
+    "short": 15150,
+    "longChange": 0,
+    "shortChange": 3210,
+    "netPositions": 18536
+  },
+  "34": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-08-06",
+    "long": 30996,
+    "short": 14860,
+    "longChange": 0,
+    "shortChange": 2760,
+    "netPositions": 16136
+  },
+  "35": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-07-30",
+    "long": 29973,
+    "short": 13015,
+    "longChange": 0,
+    "shortChange": 448,
+    "netPositions": 16958
+  },
+  "36": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-07-23",
+    "long": 30196,
+    "short": 11976,
+    "longChange": 0,
+    "shortChange": 167,
+    "netPositions": 18220
+  },
+  "37": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-07-16",
+    "long": 30327,
+    "short": 11777,
+    "longChange": 0,
+    "shortChange": -4612,
+    "netPositions": 18550
+  },
+  "38": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-07-09",
+    "long": 30587,
+    "short": 14379,
+    "longChange": 0,
+    "shortChange": -2364,
+    "netPositions": 16208
+  },
+  "39": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-07-02",
+    "long": 32776,
+    "short": 16194,
+    "longChange": 0,
+    "shortChange": 2480,
+    "netPositions": 16582
+  },
+  "40": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-06-25",
+    "long": 31947,
+    "short": 14425,
+    "longChange": 0,
+    "shortChange": 2910,
+    "netPositions": 17522
+  },
+  "41": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-06-18",
+    "long": 30205,
+    "short": 12610,
+    "longChange": 0,
+    "shortChange": 1910,
+    "netPositions": 17595
+  },
+  "42": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-06-11",
+    "long": 26458,
+    "short": 21445,
+    "longChange": 0,
+    "shortChange": -318,
+    "netPositions": 5013
+  },
+  "43": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-06-04",
+    "long": 26803,
+    "short": 21916,
+    "longChange": 0,
+    "shortChange": -1463,
+    "netPositions": 4887
+  },
+  "44": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-05-28",
+    "long": 28325,
+    "short": 24151,
+    "longChange": 0,
+    "shortChange": 188,
+    "netPositions": 4174
+  },
+  "45": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-05-21",
+    "long": 28292,
+    "short": 24774,
+    "longChange": 0,
+    "shortChange": -2897,
+    "netPositions": 3518
+  },
+  "46": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-05-14",
+    "long": 29682,
+    "short": 27247,
+    "longChange": 0,
+    "shortChange": -145,
+    "netPositions": 2435
+  },
+  "47": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-05-07",
+    "long": 28881,
+    "short": 27028,
+    "longChange": 0,
+    "shortChange": -5822,
+    "netPositions": 1853
+  },
+  "48": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-04-30",
+    "long": 33593,
+    "short": 33628,
+    "longChange": 0,
+    "shortChange": 3059,
+    "netPositions": -35
+  },
+  "49": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-04-23",
+    "long": 31347,
+    "short": 31560,
+    "longChange": 0,
+    "shortChange": 1656,
+    "netPositions": -213
+  },
+  "50": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-04-16",
+    "long": 29911,
+    "short": 30840,
+    "longChange": 0,
+    "shortChange": 3621,
+    "netPositions": -929
+  },
+  "51": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-04-09",
+    "long": 26733,
+    "short": 27875,
+    "longChange": 0,
+    "shortChange": 2318,
+    "netPositions": -1142
+  },
+  "52": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-04-02",
+    "long": 23681,
+    "short": 25577,
+    "longChange": 0,
+    "shortChange": 6133,
+    "netPositions": -1896
+  },
+  "53": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-03-26",
+    "long": 19214,
+    "short": 19843,
+    "longChange": 0,
+    "shortChange": 8178,
+    "netPositions": -629
+  },
+  "54": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-03-19",
+    "long": 15573,
+    "short": 14894,
+    "longChange": 0,
+    "shortChange": -2546,
+    "netPositions": 679
+  },
+  "55": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-03-12",
+    "long": 17547,
+    "short": 11361,
+    "longChange": 0,
+    "shortChange": -2085,
+    "netPositions": 6186
+  },
+  "56": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-03-05",
+    "long": 17766,
+    "short": 14667,
+    "longChange": 0,
+    "shortChange": -1099,
+    "netPositions": 3099
+  },
+  "57": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-02-27",
+    "long": 18827,
+    "short": 16744,
+    "longChange": 0,
+    "shortChange": -409,
+    "netPositions": 2083
+  },
+  "58": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-02-20",
+    "long": 18732,
+    "short": 17186,
+    "longChange": 0,
+    "shortChange": -2269,
+    "netPositions": 1546
+  },
+  "59": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-02-13",
+    "long": 21096,
+    "short": 19094,
+    "longChange": 0,
+    "shortChange": 3025,
+    "netPositions": 2002
+  },
+  "60": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-02-06",
+    "long": 18474,
+    "short": 16935,
+    "longChange": 0,
+    "shortChange": 3463,
+    "netPositions": 1539
+  },
+  "61": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-01-30",
+    "long": 17238,
+    "short": 16866,
+    "longChange": 0,
+    "shortChange": 1076,
+    "netPositions": 372
+  },
+  "62": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-01-23",
+    "long": 16526,
+    "short": 14879,
+    "longChange": 0,
+    "shortChange": 1162,
+    "netPositions": 1647
+  },
+  "63": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-01-16",
+    "long": 15077,
+    "short": 13777,
+    "longChange": 0,
+    "shortChange": -377,
+    "netPositions": 1300
+  },
+  "64": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-01-09",
+    "long": 16041,
+    "short": 13131,
+    "longChange": 0,
+    "shortChange": -38,
+    "netPositions": 2910
+  },
+  "65": {
+    "name": "USD INDEX - ICE FUTURES U.S.",
+    "date": "2024-01-02",
+    "long": 15941,
+    "short": 13518,
+    "longChange": 0,
+    "shortChange": 1877,
+    "netPositions": 2423
+  }
+}
