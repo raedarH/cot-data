@@ -297,6 +297,600 @@
     "netPositions": 119476
   },
   "33": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-13",
+    "long": 102603,
+    "short": 54791,
+    "longChange": 0,
+    "shortChange": -18473,
+    "netPositions": 47812
+  },
+  "34": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-06",
+    "long": 126080,
+    "short": 51681,
+    "longChange": 0,
+    "shortChange": -44512,
+    "netPositions": 74399
+  },
+  "35": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-30",
+    "long": 165635,
+    "short": 54164,
+    "longChange": 0,
+    "shortChange": -20687,
+    "netPositions": 111471
+  },
+  "36": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-23",
+    "long": 188489,
+    "short": 46306,
+    "longChange": 0,
+    "shortChange": 8618,
+    "netPositions": 142183
+  },
+  "37": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-16",
+    "long": 183287,
+    "short": 50385,
+    "longChange": 0,
+    "shortChange": 56444,
+    "netPositions": 132902
+  },
+  "38": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-09",
+    "long": 135316,
+    "short": 50626,
+    "longChange": 0,
+    "shortChange": 26060,
+    "netPositions": 84690
+  },
+  "39": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-02",
+    "long": 106753,
+    "short": 44712,
+    "longChange": 0,
+    "shortChange": -9578,
+    "netPositions": 62041
+  },
+  "40": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-25",
+    "long": 102547,
+    "short": 58499,
+    "longChange": 0,
+    "shortChange": 394,
+    "netPositions": 44048
+  },
+  "41": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-18",
+    "long": 105920,
+    "short": 58299,
+    "longChange": 0,
+    "shortChange": -68184,
+    "netPositions": 47621
+  },
+  "42": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-11",
+    "long": 110300,
+    "short": 58179,
+    "longChange": 0,
+    "shortChange": 7737,
+    "netPositions": 52121
+  },
+  "43": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-04",
+    "long": 102118,
+    "short": 58908,
+    "longChange": 0,
+    "shortChange": -999,
+    "netPositions": 43210
+  },
+  "44": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-28",
+    "long": 93041,
+    "short": 67639,
+    "longChange": 0,
+    "shortChange": 44773,
+    "netPositions": 25402
+  },
+  "45": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-21",
+    "long": 68538,
+    "short": 67485,
+    "longChange": 0,
+    "shortChange": 734,
+    "netPositions": 1053
+  },
+  "46": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-14",
+    "long": 48674,
+    "short": 68749,
+    "longChange": 0,
+    "shortChange": -488,
+    "netPositions": -20075
+  },
+  "47": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-07",
+    "long": 51777,
+    "short": 73590,
+    "longChange": 0,
+    "shortChange": -11880,
+    "netPositions": -21813
+  },
+  "48": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-30",
+    "long": 43668,
+    "short": 72658,
+    "longChange": 0,
+    "shortChange": -7211,
+    "netPositions": -28990
+  },
+  "49": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-23",
+    "long": 48459,
+    "short": 74692,
+    "longChange": 0,
+    "shortChange": 13401,
+    "netPositions": -26233
+  },
+  "50": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-16",
+    "long": 71800,
+    "short": 63181,
+    "longChange": 0,
+    "shortChange": 18134,
+    "netPositions": 8619
+  },
+  "51": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-09",
+    "long": 80000,
+    "short": 51748,
+    "longChange": 0,
+    "shortChange": -7890,
+    "netPositions": 28252
+  },
+  "52": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-02",
+    "long": 98352,
+    "short": 54938,
+    "longChange": 0,
+    "shortChange": 16067,
+    "netPositions": 43414
+  },
+  "53": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-26",
+    "long": 91261,
+    "short": 56091,
+    "longChange": 0,
+    "shortChange": 5711,
+    "netPositions": 35170
+  },
+  "54": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-19",
+    "long": 102605,
+    "short": 49405,
+    "longChange": 0,
+    "shortChange": -80304,
+    "netPositions": 53200
+  },
+  "55": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-12",
+    "long": 123285,
+    "short": 52834,
+    "longChange": 0,
+    "shortChange": 55976,
+    "netPositions": 70451
+  },
+  "56": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-05",
+    "long": 102279,
+    "short": 43894,
+    "longChange": 0,
+    "shortChange": 10898,
+    "netPositions": 58385
+  },
+  "57": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-27",
+    "long": 91970,
+    "short": 45612,
+    "longChange": 0,
+    "shortChange": 11553,
+    "netPositions": 46358
+  },
+  "58": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-20",
+    "long": 87602,
+    "short": 41290,
+    "longChange": 0,
+    "shortChange": 205,
+    "netPositions": 46312
+  },
+  "59": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-13",
+    "long": 90545,
+    "short": 40073,
+    "longChange": 0,
+    "shortChange": -176,
+    "netPositions": 50472
+  },
+  "60": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-06",
+    "long": 83936,
+    "short": 49461,
+    "longChange": 0,
+    "shortChange": 7017,
+    "netPositions": 34475
+  },
+  "61": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-30",
+    "long": 77499,
+    "short": 43346,
+    "longChange": 0,
+    "shortChange": 6549,
+    "netPositions": 34153
+  },
+  "62": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-23",
+    "long": 72599,
+    "short": 41162,
+    "longChange": 0,
+    "shortChange": 5922,
+    "netPositions": 31437
+  },
+  "63": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-16",
+    "long": 66230,
+    "short": 35299,
+    "longChange": 0,
+    "shortChange": 7127,
+    "netPositions": 30931
+  },
+  "64": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-09",
+    "long": 60684,
+    "short": 39950,
+    "longChange": 0,
+    "shortChange": -5139,
+    "netPositions": 20734
+  },
+  "65": {
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-02",
+    "long": 61794,
+    "short": 46589,
+    "longChange": 0,
+    "shortChange": 2632,
+    "netPositions": 15205
+  },
+  "66": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-13",
+    "long": 87101,
+    "short": 63997,
+    "longChange": 0,
+    "shortChange": 16401,
+    "netPositions": 23104
+  },
+  "67": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-08-06",
+    "long": 66169,
+    "short": 77523,
+    "longChange": 0,
+    "shortChange": -4214,
+    "netPositions": -11354
+  },
+  "68": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-30",
+    "long": 65016,
+    "short": 138476,
+    "longChange": 0,
+    "shortChange": -4032,
+    "netPositions": -73460
+  },
+  "69": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-23",
+    "long": 64390,
+    "short": 171498,
+    "longChange": 0,
+    "shortChange": -22,
+    "netPositions": -107108
+  },
+  "70": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-16",
+    "long": 47356,
+    "short": 198428,
+    "longChange": 0,
+    "shortChange": -41749,
+    "netPositions": -151072
+  },
+  "71": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-09",
+    "long": 41521,
+    "short": 223554,
+    "longChange": 0,
+    "shortChange": -863,
+    "netPositions": -182033
+  },
+  "72": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-07-02",
+    "long": 36714,
+    "short": 220937,
+    "longChange": 0,
+    "shortChange": 9580,
+    "netPositions": -184223
+  },
+  "73": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-25",
+    "long": 34576,
+    "short": 208476,
+    "longChange": 0,
+    "shortChange": 43120,
+    "netPositions": -173900
+  },
+  "74": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-18",
+    "long": 29429,
+    "short": 177182,
+    "longChange": 0,
+    "shortChange": -22157,
+    "netPositions": -147753
+  },
+  "75": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-11",
+    "long": 30763,
+    "short": 169342,
+    "longChange": 0,
+    "shortChange": 16265,
+    "netPositions": -138579
+  },
+  "76": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-06-04",
+    "long": 40427,
+    "short": 172528,
+    "longChange": 0,
+    "shortChange": -22222,
+    "netPositions": -132101
+  },
+  "77": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-28",
+    "long": 28565,
+    "short": 184604,
+    "longChange": 0,
+    "shortChange": 23916,
+    "netPositions": -156039
+  },
+  "78": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-21",
+    "long": 29614,
+    "short": 173981,
+    "longChange": 0,
+    "shortChange": 3709,
+    "netPositions": -144367
+  },
+  "79": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-14",
+    "long": 35303,
+    "short": 161485,
+    "longChange": 0,
+    "shortChange": -2253,
+    "netPositions": -126182
+  },
+  "80": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-05-07",
+    "long": 34990,
+    "short": 169912,
+    "longChange": 0,
+    "shortChange": -34989,
+    "netPositions": -134922
+  },
+  "81": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-30",
+    "long": 40435,
+    "short": 208823,
+    "longChange": 0,
+    "shortChange": -1319,
+    "netPositions": -168388
+  },
+  "82": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-23",
+    "long": 42426,
+    "short": 222345,
+    "longChange": 0,
+    "shortChange": 5057,
+    "netPositions": -179919
+  },
+  "83": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-16",
+    "long": 49463,
+    "short": 215082,
+    "longChange": 0,
+    "shortChange": 6631,
+    "netPositions": -165619
+  },
+  "84": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-09",
+    "long": 47275,
+    "short": 209426,
+    "longChange": 0,
+    "shortChange": 7670,
+    "netPositions": -162151
+  },
+  "85": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-04-02",
+    "long": 55190,
+    "short": 198420,
+    "longChange": 0,
+    "shortChange": 11108,
+    "netPositions": -143230
+  },
+  "86": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-26",
+    "long": 59969,
+    "short": 189075,
+    "longChange": 0,
+    "shortChange": 3201,
+    "netPositions": -129106
+  },
+  "87": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-19",
+    "long": 66274,
+    "short": 182286,
+    "longChange": 0,
+    "shortChange": -23175,
+    "netPositions": -116012
+  },
+  "88": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-12",
+    "long": 54923,
+    "short": 157245,
+    "longChange": 0,
+    "shortChange": 11089,
+    "netPositions": -102322
+  },
+  "89": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-03-05",
+    "long": 54671,
+    "short": 173514,
+    "longChange": 0,
+    "shortChange": 4953,
+    "netPositions": -118843
+  },
+  "90": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-27",
+    "long": 51261,
+    "short": 183966,
+    "longChange": 0,
+    "shortChange": 4195,
+    "netPositions": -132705
+  },
+  "91": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-20",
+    "long": 53862,
+    "short": 174640,
+    "longChange": 0,
+    "shortChange": 846,
+    "netPositions": -120778
+  },
+  "92": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-13",
+    "long": 58554,
+    "short": 170090,
+    "longChange": 0,
+    "shortChange": 45050,
+    "netPositions": -111536
+  },
+  "93": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-02-06",
+    "long": 55646,
+    "short": 139876,
+    "longChange": 0,
+    "shortChange": 17513,
+    "netPositions": -84230
+  },
+  "94": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-30",
+    "long": 44918,
+    "short": 125373,
+    "longChange": 0,
+    "shortChange": -1003,
+    "netPositions": -80455
+  },
+  "95": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-23",
+    "long": 52585,
+    "short": 123230,
+    "longChange": 0,
+    "shortChange": 29723,
+    "netPositions": -70645
+  },
+  "96": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-16",
+    "long": 44180,
+    "short": 100740,
+    "longChange": 0,
+    "shortChange": 13010,
+    "netPositions": -56560
+  },
+  "97": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-09",
+    "long": 41364,
+    "short": 97313,
+    "longChange": 0,
+    "shortChange": 16257,
+    "netPositions": -55949
+  },
+  "98": {
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+    "date": "2024-01-02",
+    "long": 33585,
+    "short": 90780,
+    "longChange": 0,
+    "shortChange": -4498,
+    "netPositions": -57195
+  },
+  "99": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-08-13",
     "long": 33686,
@@ -305,7 +899,7 @@
     "shortChange": 3210,
     "netPositions": 18536
   },
-  "34": {
+  "100": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-08-06",
     "long": 30996,
@@ -314,7 +908,7 @@
     "shortChange": 2760,
     "netPositions": 16136
   },
-  "35": {
+  "101": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-07-30",
     "long": 29973,
@@ -323,7 +917,7 @@
     "shortChange": 448,
     "netPositions": 16958
   },
-  "36": {
+  "102": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-07-23",
     "long": 30196,
@@ -332,7 +926,7 @@
     "shortChange": 167,
     "netPositions": 18220
   },
-  "37": {
+  "103": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-07-16",
     "long": 30327,
@@ -341,7 +935,7 @@
     "shortChange": -4612,
     "netPositions": 18550
   },
-  "38": {
+  "104": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-07-09",
     "long": 30587,
@@ -350,7 +944,7 @@
     "shortChange": -2364,
     "netPositions": 16208
   },
-  "39": {
+  "105": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-07-02",
     "long": 32776,
@@ -359,7 +953,7 @@
     "shortChange": 2480,
     "netPositions": 16582
   },
-  "40": {
+  "106": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-06-25",
     "long": 31947,
@@ -368,7 +962,7 @@
     "shortChange": 2910,
     "netPositions": 17522
   },
-  "41": {
+  "107": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-06-18",
     "long": 30205,
@@ -377,7 +971,7 @@
     "shortChange": 1910,
     "netPositions": 17595
   },
-  "42": {
+  "108": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-06-11",
     "long": 26458,
@@ -386,7 +980,7 @@
     "shortChange": -318,
     "netPositions": 5013
   },
-  "43": {
+  "109": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-06-04",
     "long": 26803,
@@ -395,7 +989,7 @@
     "shortChange": -1463,
     "netPositions": 4887
   },
-  "44": {
+  "110": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-05-28",
     "long": 28325,
@@ -404,7 +998,7 @@
     "shortChange": 188,
     "netPositions": 4174
   },
-  "45": {
+  "111": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-05-21",
     "long": 28292,
@@ -413,7 +1007,7 @@
     "shortChange": -2897,
     "netPositions": 3518
   },
-  "46": {
+  "112": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-05-14",
     "long": 29682,
@@ -422,7 +1016,7 @@
     "shortChange": -145,
     "netPositions": 2435
   },
-  "47": {
+  "113": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-05-07",
     "long": 28881,
@@ -431,7 +1025,7 @@
     "shortChange": -5822,
     "netPositions": 1853
   },
-  "48": {
+  "114": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-04-30",
     "long": 33593,
@@ -440,7 +1034,7 @@
     "shortChange": 3059,
     "netPositions": -35
   },
-  "49": {
+  "115": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-04-23",
     "long": 31347,
@@ -449,7 +1043,7 @@
     "shortChange": 1656,
     "netPositions": -213
   },
-  "50": {
+  "116": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-04-16",
     "long": 29911,
@@ -458,7 +1052,7 @@
     "shortChange": 3621,
     "netPositions": -929
   },
-  "51": {
+  "117": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-04-09",
     "long": 26733,
@@ -467,7 +1061,7 @@
     "shortChange": 2318,
     "netPositions": -1142
   },
-  "52": {
+  "118": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-04-02",
     "long": 23681,
@@ -476,7 +1070,7 @@
     "shortChange": 6133,
     "netPositions": -1896
   },
-  "53": {
+  "119": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-03-26",
     "long": 19214,
@@ -485,7 +1079,7 @@
     "shortChange": 8178,
     "netPositions": -629
   },
-  "54": {
+  "120": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-03-19",
     "long": 15573,
@@ -494,7 +1088,7 @@
     "shortChange": -2546,
     "netPositions": 679
   },
-  "55": {
+  "121": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-03-12",
     "long": 17547,
@@ -503,7 +1097,7 @@
     "shortChange": -2085,
     "netPositions": 6186
   },
-  "56": {
+  "122": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-03-05",
     "long": 17766,
@@ -512,7 +1106,7 @@
     "shortChange": -1099,
     "netPositions": 3099
   },
-  "57": {
+  "123": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-02-27",
     "long": 18827,
@@ -521,7 +1115,7 @@
     "shortChange": -409,
     "netPositions": 2083
   },
-  "58": {
+  "124": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-02-20",
     "long": 18732,
@@ -530,7 +1124,7 @@
     "shortChange": -2269,
     "netPositions": 1546
   },
-  "59": {
+  "125": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-02-13",
     "long": 21096,
@@ -539,7 +1133,7 @@
     "shortChange": 3025,
     "netPositions": 2002
   },
-  "60": {
+  "126": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-02-06",
     "long": 18474,
@@ -548,7 +1142,7 @@
     "shortChange": 3463,
     "netPositions": 1539
   },
-  "61": {
+  "127": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-01-30",
     "long": 17238,
@@ -557,7 +1151,7 @@
     "shortChange": 1076,
     "netPositions": 372
   },
-  "62": {
+  "128": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-01-23",
     "long": 16526,
@@ -566,7 +1160,7 @@
     "shortChange": 1162,
     "netPositions": 1647
   },
-  "63": {
+  "129": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-01-16",
     "long": 15077,
@@ -575,7 +1169,7 @@
     "shortChange": -377,
     "netPositions": 1300
   },
-  "64": {
+  "130": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-01-09",
     "long": 16041,
@@ -584,7 +1178,7 @@
     "shortChange": -38,
     "netPositions": 2910
   },
-  "65": {
+  "131": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2024-01-02",
     "long": 15941,
