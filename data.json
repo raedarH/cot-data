@@ -4,8 +4,8 @@
     "date": "2024-08-13",
     "long": 182212,
     "short": 155229,
-    "longChange": 0,
-    "shortChange": -3754,
+    "longChange": -3587,
+    "shortChange": 3010,
     "netPositions": 26983
   },
   "1": {
@@ -13,8 +13,8 @@
     "date": "2024-08-06",
     "long": 185799,
     "short": 152219,
-    "longChange": 0,
-    "shortChange": 3805,
+    "longChange": 2793,
+    "shortChange": -12988,
     "netPositions": 33580
   },
   "2": {
@@ -22,8 +22,8 @@
     "date": "2024-07-30",
     "long": 183006,
     "short": 165207,
-    "longChange": 0,
-    "shortChange": -4723,
+    "longChange": -5923,
+    "shortChange": 12184,
     "netPositions": 17799
   },
   "3": {
@@ -31,8 +31,8 @@
     "date": "2024-07-23",
     "long": 188929,
     "short": 153023,
-    "longChange": 0,
-    "shortChange": 22771,
+    "longChange": 8992,
+    "shortChange": -2165,
     "netPositions": 35906
   },
   "4": {
@@ -40,8 +40,8 @@
     "date": "2024-07-16",
     "long": 179937,
     "short": 155188,
-    "longChange": 0,
-    "shortChange": 11985,
+    "longChange": 14108,
+    "shortChange": -7018,
     "netPositions": 24749
   },
   "5": {
@@ -49,8 +49,8 @@
     "date": "2024-07-09",
     "long": 165829,
     "short": 162206,
-    "longChange": 0,
-    "shortChange": 371,
+    "longChange": 1460,
+    "shortChange": -11682,
     "netPositions": 3623
   },
   "6": {
@@ -58,8 +58,8 @@
     "date": "2024-07-02",
     "long": 164369,
     "short": 173888,
-    "longChange": 0,
-    "shortChange": -13192,
+    "longChange": -3001,
+    "shortChange": -1913,
     "netPositions": -9519
   },
   "7": {
@@ -67,8 +67,8 @@
     "date": "2024-06-25",
     "long": 167370,
     "short": 175801,
-    "longChange": 0,
-    "shortChange": -301,
+    "longChange": -4094,
+    "shortChange": 12288,
     "netPositions": -8431
   },
   "8": {
@@ -76,8 +76,8 @@
     "date": "2024-06-18",
     "long": 171464,
     "short": 163513,
-    "longChange": 0,
-    "shortChange": -62506,
+    "longChange": -16233,
+    "shortChange": 19460,
     "netPositions": 7951
   },
   "9": {
@@ -85,8 +85,8 @@
     "date": "2024-06-11",
     "long": 187697,
     "short": 144053,
-    "longChange": 0,
-    "shortChange": 41158,
+    "longChange": -1260,
+    "shortChange": 22966,
     "netPositions": 43644
   },
   "10": {
@@ -94,8 +94,8 @@
     "date": "2024-06-04",
     "long": 188957,
     "short": 121087,
-    "longChange": 0,
-    "shortChange": 6872,
+    "longChange": 4301,
+    "shortChange": -5997,
     "netPositions": 67870
   },
   "11": {
@@ -103,8 +103,8 @@
     "date": "2024-05-28",
     "long": 184656,
     "short": 127084,
-    "longChange": 0,
-    "shortChange": 11783,
+    "longChange": 2082,
+    "shortChange": -14015,
     "netPositions": 57572
   },
   "12": {
@@ -112,8 +112,8 @@
     "date": "2024-05-21",
     "long": 182574,
     "short": 141099,
-    "longChange": 0,
-    "shortChange": -3721,
+    "longChange": 4176,
+    "shortChange": -20144,
     "netPositions": 41475
   },
   "13": {
@@ -121,8 +121,8 @@
     "date": "2024-05-14",
     "long": 178398,
     "short": 161243,
-    "longChange": 0,
-    "shortChange": 1998,
+    "longChange": 7804,
+    "shortChange": -4761,
     "netPositions": 17155
   },
   "14": {
@@ -130,8 +130,8 @@
     "date": "2024-05-07",
     "long": 170594,
     "short": 166004,
-    "longChange": 0,
-    "shortChange": 2507,
+    "longChange": 3409,
+    "shortChange": -7958,
     "netPositions": 4590
   },
   "15": {
@@ -139,8 +139,8 @@
     "date": "2024-04-30",
     "long": 167185,
     "short": 173962,
-    "longChange": 0,
-    "shortChange": -13474,
+    "longChange": -111,
+    "shortChange": -3323,
     "netPositions": -6777
   },
   "16": {
@@ -148,8 +148,8 @@
     "date": "2024-04-23",
     "long": 167296,
     "short": 177285,
-    "longChange": 0,
-    "shortChange": 6906,
+    "longChange": -11616,
+    "shortChange": 10597,
     "netPositions": -9989
   },
   "17": {
@@ -157,8 +157,8 @@
     "date": "2024-04-16",
     "long": 178912,
     "short": 166688,
-    "longChange": 0,
-    "shortChange": 15369,
+    "longChange": 3493,
+    "shortChange": 23992,
     "netPositions": 12224
   },
   "18": {
@@ -166,8 +166,8 @@
     "date": "2024-04-09",
     "long": 175419,
     "short": 142696,
-    "longChange": 0,
-    "shortChange": -39272,
+    "longChange": -12839,
+    "shortChange": -28768,
     "netPositions": 32723
   },
   "19": {
@@ -175,8 +175,8 @@
     "date": "2024-04-02",
     "long": 188258,
     "short": 171464,
-    "longChange": 0,
-    "shortChange": 25468,
+    "longChange": 8065,
+    "shortChange": 22465,
     "netPositions": 16794
   },
   "20": {
@@ -184,8 +184,8 @@
     "date": "2024-03-26",
     "long": 180193,
     "short": 148999,
-    "longChange": 0,
-    "shortChange": 1118,
+    "longChange": -2189,
+    "shortChange": 14959,
     "netPositions": 31194
   },
   "21": {
@@ -193,8 +193,8 @@
     "date": "2024-03-19",
     "long": 182382,
     "short": 134040,
-    "longChange": 0,
-    "shortChange": -61538,
+    "longChange": -11616,
+    "shortChange": 14449,
     "netPositions": 48342
   },
   "22": {
@@ -202,8 +202,8 @@
     "date": "2024-03-12",
     "long": 193998,
     "short": 119591,
-    "longChange": 0,
-    "shortChange": 10612,
+    "longChange": -6027,
+    "shortChange": -14123,
     "netPositions": 74407
   },
   "23": {
@@ -211,8 +211,8 @@
     "date": "2024-03-05",
     "long": 200025,
     "short": 133714,
-    "longChange": 0,
-    "shortChange": -8437,
+    "longChange": -5209,
+    "shortChange": -8666,
     "netPositions": 66311
   },
   "24": {
@@ -220,8 +220,8 @@
     "date": "2024-02-27",
     "long": 205234,
     "short": 142380,
-    "longChange": 0,
-    "shortChange": -6754,
+    "longChange": -7960,
+    "shortChange": -2798,
     "netPositions": 62854
   },
   "25": {
@@ -229,8 +229,8 @@
     "date": "2024-02-20",
     "long": 213194,
     "short": 145178,
-    "longChange": 0,
-    "shortChange": -17806,
+    "longChange": 2346,
+    "shortChange": -12832,
     "netPositions": 68016
   },
   "26": {
@@ -238,8 +238,8 @@
     "date": "2024-02-13",
     "long": 210848,
     "short": 158010,
-    "longChange": 0,
-    "shortChange": 8114,
+    "longChange": 8398,
+    "shortChange": 17713,
     "netPositions": 52838
   },
   "27": {
@@ -247,8 +247,8 @@
     "date": "2024-02-06",
     "long": 202450,
     "short": 140297,
-    "longChange": 0,
-    "shortChange": 4781,
+    "longChange": 2090,
+    "shortChange": 28708,
     "netPositions": 62153
   },
   "28": {
@@ -256,8 +256,8 @@
     "date": "2024-01-30",
     "long": 200360,
     "short": 111589,
-    "longChange": 0,
-    "shortChange": 1787,
+    "longChange": 5170,
+    "shortChange": 4723,
     "netPositions": 88771
   },
   "29": {
@@ -265,8 +265,8 @@
     "date": "2024-01-23",
     "long": 195190,
     "short": 106866,
-    "longChange": 0,
-    "shortChange": -7668,
+    "longChange": -9104,
+    "shortChange": 6664,
     "netPositions": 88324
   },
   "30": {
@@ -274,8 +274,8 @@
     "date": "2024-01-16",
     "long": 204294,
     "short": 100202,
-    "longChange": 0,
-    "shortChange": 19012,
+    "longChange": -4179,
+    "shortChange": 10606,
     "netPositions": 104092
   },
   "31": {
@@ -283,8 +283,8 @@
     "date": "2024-01-09",
     "long": 208473,
     "short": 89596,
-    "longChange": 0,
-    "shortChange": -4806,
+    "longChange": -3439,
+    "shortChange": -2840,
     "netPositions": 118877
   },
   "32": {
@@ -292,8 +292,8 @@
     "date": "2024-01-02",
     "long": 211912,
     "short": 92436,
-    "longChange": 0,
-    "shortChange": 13258,
+    "longChange": 717,
+    "shortChange": -1368,
     "netPositions": 119476
   },
   "33": {
@@ -301,8 +301,8 @@
     "date": "2024-08-13",
     "long": 102603,
     "short": 54791,
-    "longChange": 0,
-    "shortChange": -18473,
+    "longChange": -23477,
+    "shortChange": 3110,
     "netPositions": 47812
   },
   "34": {
@@ -310,8 +310,8 @@
     "date": "2024-08-06",
     "long": 126080,
     "short": 51681,
-    "longChange": 0,
-    "shortChange": -44512,
+    "longChange": -39555,
+    "shortChange": -2483,
     "netPositions": 74399
   },
   "35": {
@@ -319,8 +319,8 @@
     "date": "2024-07-30",
     "long": 165635,
     "short": 54164,
-    "longChange": 0,
-    "shortChange": -20687,
+    "longChange": -22854,
+    "shortChange": 7858,
     "netPositions": 111471
   },
   "36": {
@@ -328,8 +328,8 @@
     "date": "2024-07-23",
     "long": 188489,
     "short": 46306,
-    "longChange": 0,
-    "shortChange": 8618,
+    "longChange": 5202,
+    "shortChange": -4079,
     "netPositions": 142183
   },
   "37": {
@@ -337,8 +337,8 @@
     "date": "2024-07-16",
     "long": 183287,
     "short": 50385,
-    "longChange": 0,
-    "shortChange": 56444,
+    "longChange": 47971,
+    "shortChange": -241,
     "netPositions": 132902
   },
   "38": {
@@ -346,8 +346,8 @@
     "date": "2024-07-09",
     "long": 135316,
     "short": 50626,
-    "longChange": 0,
-    "shortChange": 26060,
+    "longChange": 28563,
+    "shortChange": 5914,
     "netPositions": 84690
   },
   "39": {
@@ -355,8 +355,8 @@
     "date": "2024-07-02",
     "long": 106753,
     "short": 44712,
-    "longChange": 0,
-    "shortChange": -9578,
+    "longChange": 4206,
+    "shortChange": -13787,
     "netPositions": 62041
   },
   "40": {
@@ -364,8 +364,8 @@
     "date": "2024-06-25",
     "long": 102547,
     "short": 58499,
-    "longChange": 0,
-    "shortChange": 394,
+    "longChange": -3373,
+    "shortChange": 200,
     "netPositions": 44048
   },
   "41": {
@@ -373,8 +373,8 @@
     "date": "2024-06-18",
     "long": 105920,
     "short": 58299,
-    "longChange": 0,
-    "shortChange": -68184,
+    "longChange": -4380,
+    "shortChange": 120,
     "netPositions": 47621
   },
   "42": {
@@ -382,8 +382,8 @@
     "date": "2024-06-11",
     "long": 110300,
     "short": 58179,
-    "longChange": 0,
-    "shortChange": 7737,
+    "longChange": 8182,
+    "shortChange": -729,
     "netPositions": 52121
   },
   "43": {
@@ -391,8 +391,8 @@
     "date": "2024-06-04",
     "long": 102118,
     "short": 58908,
-    "longChange": 0,
-    "shortChange": -999,
+    "longChange": 9077,
+    "shortChange": -8731,
     "netPositions": 43210
   },
   "44": {
@@ -400,8 +400,8 @@
     "date": "2024-05-28",
     "long": 93041,
     "short": 67639,
-    "longChange": 0,
-    "shortChange": 44773,
+    "longChange": 24503,
+    "shortChange": 154,
     "netPositions": 25402
   },
   "45": {
@@ -409,8 +409,8 @@
     "date": "2024-05-21",
     "long": 68538,
     "short": 67485,
-    "longChange": 0,
-    "shortChange": 734,
+    "longChange": 19864,
+    "shortChange": -1264,
     "netPositions": 1053
   },
   "46": {
@@ -418,8 +418,8 @@
     "date": "2024-05-14",
     "long": 48674,
     "short": 68749,
-    "longChange": 0,
-    "shortChange": -488,
+    "longChange": -3103,
+    "shortChange": -4841,
     "netPositions": -20075
   },
   "47": {
@@ -427,8 +427,8 @@
     "date": "2024-05-07",
     "long": 51777,
     "short": 73590,
-    "longChange": 0,
-    "shortChange": -11880,
+    "longChange": 8109,
+    "shortChange": 932,
     "netPositions": -21813
   },
   "48": {
@@ -436,8 +436,8 @@
     "date": "2024-04-30",
     "long": 43668,
     "short": 72658,
-    "longChange": 0,
-    "shortChange": -7211,
+    "longChange": -4791,
+    "shortChange": -2034,
     "netPositions": -28990
   },
   "49": {
@@ -445,8 +445,8 @@
     "date": "2024-04-23",
     "long": 48459,
     "short": 74692,
-    "longChange": 0,
-    "shortChange": 13401,
+    "longChange": -23341,
+    "shortChange": 11511,
     "netPositions": -26233
   },
   "50": {
@@ -454,8 +454,8 @@
     "date": "2024-04-16",
     "long": 71800,
     "short": 63181,
-    "longChange": 0,
-    "shortChange": 18134,
+    "longChange": -8200,
+    "shortChange": 11433,
     "netPositions": 8619
   },
   "51": {
@@ -463,8 +463,8 @@
     "date": "2024-04-09",
     "long": 80000,
     "short": 51748,
-    "longChange": 0,
-    "shortChange": -7890,
+    "longChange": -18352,
+    "shortChange": -3190,
     "netPositions": 28252
   },
   "52": {
@@ -472,8 +472,8 @@
     "date": "2024-04-02",
     "long": 98352,
     "short": 54938,
-    "longChange": 0,
-    "shortChange": 16067,
+    "longChange": 7091,
+    "shortChange": -1153,
     "netPositions": 43414
   },
   "53": {
@@ -481,8 +481,8 @@
     "date": "2024-03-26",
     "long": 91261,
     "short": 56091,
-    "longChange": 0,
-    "shortChange": 5711,
+    "longChange": -11344,
+    "shortChange": 6686,
     "netPositions": 35170
   },
   "54": {
@@ -490,8 +490,8 @@
     "date": "2024-03-19",
     "long": 102605,
     "short": 49405,
-    "longChange": 0,
-    "shortChange": -80304,
+    "longChange": -20680,
+    "shortChange": -3429,
     "netPositions": 53200
   },
   "55": {
@@ -499,8 +499,8 @@
     "date": "2024-03-12",
     "long": 123285,
     "short": 52834,
-    "longChange": 0,
-    "shortChange": 55976,
+    "longChange": 21006,
+    "shortChange": 8940,
     "netPositions": 70451
   },
   "56": {
@@ -508,8 +508,8 @@
     "date": "2024-03-05",
     "long": 102279,
     "short": 43894,
-    "longChange": 0,
-    "shortChange": 10898,
+    "longChange": 10309,
+    "shortChange": -1718,
     "netPositions": 58385
   },
   "57": {
@@ -517,8 +517,8 @@
     "date": "2024-02-27",
     "long": 91970,
     "short": 45612,
-    "longChange": 0,
-    "shortChange": 11553,
+    "longChange": 4368,
+    "shortChange": 4322,
     "netPositions": 46358
   },
   "58": {
@@ -526,8 +526,8 @@
     "date": "2024-02-20",
     "long": 87602,
     "short": 41290,
-    "longChange": 0,
-    "shortChange": 205,
+    "longChange": -2943,
+    "shortChange": 1217,
     "netPositions": 46312
   },
   "59": {
@@ -535,8 +535,8 @@
     "date": "2024-02-13",
     "long": 90545,
     "short": 40073,
-    "longChange": 0,
-    "shortChange": -176,
+    "longChange": 6609,
+    "shortChange": -9388,
     "netPositions": 50472
   },
   "60": {
@@ -544,8 +544,8 @@
     "date": "2024-02-06",
     "long": 83936,
     "short": 49461,
-    "longChange": 0,
-    "shortChange": 7017,
+    "longChange": 6437,
+    "shortChange": 6115,
     "netPositions": 34475
   },
   "61": {
@@ -553,8 +553,8 @@
     "date": "2024-01-30",
     "long": 77499,
     "short": 43346,
-    "longChange": 0,
-    "shortChange": 6549,
+    "longChange": 4900,
+    "shortChange": 2184,
     "netPositions": 34153
   },
   "62": {
@@ -562,8 +562,8 @@
     "date": "2024-01-23",
     "long": 72599,
     "short": 41162,
-    "longChange": 0,
-    "shortChange": 5922,
+    "longChange": 6369,
+    "shortChange": 5863,
     "netPositions": 31437
   },
   "63": {
@@ -571,8 +571,8 @@
     "date": "2024-01-16",
     "long": 66230,
     "short": 35299,
-    "longChange": 0,
-    "shortChange": 7127,
+    "longChange": 5546,
+    "shortChange": -4651,
     "netPositions": 30931
   },
   "64": {
@@ -580,8 +580,8 @@
     "date": "2024-01-09",
     "long": 60684,
     "short": 39950,
-    "longChange": 0,
-    "shortChange": -5139,
+    "longChange": -1110,
+    "shortChange": -6639,
     "netPositions": 20734
   },
   "65": {
@@ -589,8 +589,8 @@
     "date": "2024-01-02",
     "long": 61794,
     "short": 46589,
-    "longChange": 0,
-    "shortChange": 2632,
+    "longChange": 3044,
+    "shortChange": 1931,
     "netPositions": 15205
   },
   "66": {
@@ -598,8 +598,8 @@
     "date": "2024-08-13",
     "long": 87101,
     "short": 63997,
-    "longChange": 0,
-    "shortChange": 16401,
+    "longChange": 20932,
+    "shortChange": -13526,
     "netPositions": 23104
   },
   "67": {
@@ -607,8 +607,8 @@
     "date": "2024-08-06",
     "long": 66169,
     "short": 77523,
-    "longChange": 0,
-    "shortChange": -4214,
+    "longChange": 1153,
+    "shortChange": -60953,
     "netPositions": -11354
   },
   "68": {
@@ -616,8 +616,8 @@
     "date": "2024-07-30",
     "long": 65016,
     "short": 138476,
-    "longChange": 0,
-    "shortChange": -4032,
+    "longChange": 626,
+    "shortChange": -33022,
     "netPositions": -73460
   },
   "69": {
@@ -625,8 +625,8 @@
     "date": "2024-07-23",
     "long": 64390,
     "short": 171498,
-    "longChange": 0,
-    "shortChange": -22,
+    "longChange": 17034,
+    "shortChange": -26930,
     "netPositions": -107108
   },
   "70": {
@@ -634,8 +634,8 @@
     "date": "2024-07-16",
     "long": 47356,
     "short": 198428,
-    "longChange": 0,
-    "shortChange": -41749,
+    "longChange": 5835,
+    "shortChange": -25126,
     "netPositions": -151072
   },
   "71": {
@@ -643,8 +643,8 @@
     "date": "2024-07-09",
     "long": 41521,
     "short": 223554,
-    "longChange": 0,
-    "shortChange": -863,
+    "longChange": 4807,
+    "shortChange": 2617,
     "netPositions": -182033
   },
   "72": {
@@ -652,8 +652,8 @@
     "date": "2024-07-02",
     "long": 36714,
     "short": 220937,
-    "longChange": 0,
-    "shortChange": 9580,
+    "longChange": 2138,
+    "shortChange": 12461,
     "netPositions": -184223
   },
   "73": {
@@ -661,8 +661,8 @@
     "date": "2024-06-25",
     "long": 34576,
     "short": 208476,
-    "longChange": 0,
-    "shortChange": 43120,
+    "longChange": 5147,
+    "shortChange": 31294,
     "netPositions": -173900
   },
   "74": {
@@ -670,8 +670,8 @@
     "date": "2024-06-18",
     "long": 29429,
     "short": 177182,
-    "longChange": 0,
-    "shortChange": -22157,
+    "longChange": -1334,
+    "shortChange": 7840,
     "netPositions": -147753
   },
   "75": {
@@ -679,8 +679,8 @@
     "date": "2024-06-11",
     "long": 30763,
     "short": 169342,
-    "longChange": 0,
-    "shortChange": 16265,
+    "longChange": -9664,
+    "shortChange": -3186,
     "netPositions": -138579
   },
   "76": {
@@ -688,8 +688,8 @@
     "date": "2024-06-04",
     "long": 40427,
     "short": 172528,
-    "longChange": 0,
-    "shortChange": -22222,
+    "longChange": 11862,
+    "shortChange": -12076,
     "netPositions": -132101
   },
   "77": {
@@ -697,8 +697,8 @@
     "date": "2024-05-28",
     "long": 28565,
     "short": 184604,
-    "longChange": 0,
-    "shortChange": 23916,
+    "longChange": -1049,
+    "shortChange": 10623,
     "netPositions": -156039
   },
   "78": {
@@ -706,8 +706,8 @@
     "date": "2024-05-21",
     "long": 29614,
     "short": 173981,
-    "longChange": 0,
-    "shortChange": 3709,
+    "longChange": -5689,
+    "shortChange": 12496,
     "netPositions": -144367
   },
   "79": {
@@ -715,8 +715,8 @@
     "date": "2024-05-14",
     "long": 35303,
     "short": 161485,
-    "longChange": 0,
-    "shortChange": -2253,
+    "longChange": 313,
+    "shortChange": -8427,
     "netPositions": -126182
   },
   "80": {
@@ -724,8 +724,8 @@
     "date": "2024-05-07",
     "long": 34990,
     "short": 169912,
-    "longChange": 0,
-    "shortChange": -34989,
+    "longChange": -5445,
+    "shortChange": -38911,
     "netPositions": -134922
   },
   "81": {
@@ -733,8 +733,8 @@
     "date": "2024-04-30",
     "long": 40435,
     "short": 208823,
-    "longChange": 0,
-    "shortChange": -1319,
+    "longChange": -1991,
+    "shortChange": -13522,
     "netPositions": -168388
   },
   "82": {
@@ -742,8 +742,8 @@
     "date": "2024-04-23",
     "long": 42426,
     "short": 222345,
-    "longChange": 0,
-    "shortChange": 5057,
+    "longChange": -7037,
+    "shortChange": 7263,
     "netPositions": -179919
   },
   "83": {
@@ -751,8 +751,8 @@
     "date": "2024-04-16",
     "long": 49463,
     "short": 215082,
-    "longChange": 0,
-    "shortChange": 6631,
+    "longChange": 2188,
+    "shortChange": 5656,
     "netPositions": -165619
   },
   "84": {
@@ -760,8 +760,8 @@
     "date": "2024-04-09",
     "long": 47275,
     "short": 209426,
-    "longChange": 0,
-    "shortChange": 7670,
+    "longChange": -7915,
+    "shortChange": 11006,
     "netPositions": -162151
   },
   "85": {
@@ -769,8 +769,8 @@
     "date": "2024-04-02",
     "long": 55190,
     "short": 198420,
-    "longChange": 0,
-    "shortChange": 11108,
+    "longChange": -4779,
+    "shortChange": 9345,
     "netPositions": -143230
   },
   "86": {
@@ -778,8 +778,8 @@
     "date": "2024-03-26",
     "long": 59969,
     "short": 189075,
-    "longChange": 0,
-    "shortChange": 3201,
+    "longChange": -6305,
+    "shortChange": 6789,
     "netPositions": -129106
   },
   "87": {
@@ -787,8 +787,8 @@
     "date": "2024-03-19",
     "long": 66274,
     "short": 182286,
-    "longChange": 0,
-    "shortChange": -23175,
+    "longChange": 11351,
+    "shortChange": 25041,
     "netPositions": -116012
   },
   "88": {
@@ -796,8 +796,8 @@
     "date": "2024-03-12",
     "long": 54923,
     "short": 157245,
-    "longChange": 0,
-    "shortChange": 11089,
+    "longChange": 252,
+    "shortChange": -16269,
     "netPositions": -102322
   },
   "89": {
@@ -805,8 +805,8 @@
     "date": "2024-03-05",
     "long": 54671,
     "short": 173514,
-    "longChange": 0,
-    "shortChange": 4953,
+    "longChange": 3410,
+    "shortChange": -10452,
     "netPositions": -118843
   },
   "90": {
@@ -814,8 +814,8 @@
     "date": "2024-02-27",
     "long": 51261,
     "short": 183966,
-    "longChange": 0,
-    "shortChange": 4195,
+    "longChange": -2601,
+    "shortChange": 9326,
     "netPositions": -132705
   },
   "91": {
@@ -823,8 +823,8 @@
     "date": "2024-02-20",
     "long": 53862,
     "short": 174640,
-    "longChange": 0,
-    "shortChange": 846,
+    "longChange": -4692,
+    "shortChange": 4550,
     "netPositions": -120778
   },
   "92": {
@@ -832,8 +832,8 @@
     "date": "2024-02-13",
     "long": 58554,
     "short": 170090,
-    "longChange": 0,
-    "shortChange": 45050,
+    "longChange": 2908,
+    "shortChange": 30214,
     "netPositions": -111536
   },
   "93": {
@@ -841,8 +841,8 @@
     "date": "2024-02-06",
     "long": 55646,
     "short": 139876,
-    "longChange": 0,
-    "shortChange": 17513,
+    "longChange": 10728,
+    "shortChange": 14503,
     "netPositions": -84230
   },
   "94": {
@@ -850,8 +850,8 @@
     "date": "2024-01-30",
     "long": 44918,
     "short": 125373,
-    "longChange": 0,
-    "shortChange": -1003,
+    "longChange": -7667,
+    "shortChange": 2143,
     "netPositions": -80455
   },
   "95": {
@@ -859,8 +859,8 @@
     "date": "2024-01-23",
     "long": 52585,
     "short": 123230,
-    "longChange": 0,
-    "shortChange": 29723,
+    "longChange": 8405,
+    "shortChange": 22490,
     "netPositions": -70645
   },
   "96": {
@@ -868,8 +868,8 @@
     "date": "2024-01-16",
     "long": 44180,
     "short": 100740,
-    "longChange": 0,
-    "shortChange": 13010,
+    "longChange": 2816,
+    "shortChange": 3427,
     "netPositions": -56560
   },
   "97": {
@@ -877,8 +877,8 @@
     "date": "2024-01-09",
     "long": 41364,
     "short": 97313,
-    "longChange": 0,
-    "shortChange": 16257,
+    "longChange": 7779,
+    "shortChange": 6533,
     "netPositions": -55949
   },
   "98": {
@@ -886,8 +886,8 @@
     "date": "2024-01-02",
     "long": 33585,
     "short": 90780,
-    "longChange": 0,
-    "shortChange": -4498,
+    "longChange": -3736,
+    "shortChange": -2109,
     "netPositions": -57195
   },
   "99": {
@@ -895,8 +895,8 @@
     "date": "2024-08-13",
     "long": 33686,
     "short": 15150,
-    "longChange": 0,
-    "shortChange": 3210,
+    "longChange": 2690,
+    "shortChange": 290,
     "netPositions": 18536
   },
   "100": {
@@ -904,8 +904,8 @@
     "date": "2024-08-06",
     "long": 30996,
     "short": 14860,
-    "longChange": 0,
-    "shortChange": 2760,
+    "longChange": 1023,
+    "shortChange": 1845,
     "netPositions": 16136
   },
   "101": {
@@ -913,8 +913,8 @@
     "date": "2024-07-30",
     "long": 29973,
     "short": 13015,
-    "longChange": 0,
-    "shortChange": 448,
+    "longChange": -223,
+    "shortChange": 1039,
     "netPositions": 16958
   },
   "102": {
@@ -922,8 +922,8 @@
     "date": "2024-07-23",
     "long": 30196,
     "short": 11976,
-    "longChange": 0,
-    "shortChange": 167,
+    "longChange": -131,
+    "shortChange": 199,
     "netPositions": 18220
   },
   "103": {
@@ -931,8 +931,8 @@
     "date": "2024-07-16",
     "long": 30327,
     "short": 11777,
-    "longChange": 0,
-    "shortChange": -4612,
+    "longChange": -260,
+    "shortChange": -2602,
     "netPositions": 18550
   },
   "104": {
@@ -940,8 +940,8 @@
     "date": "2024-07-09",
     "long": 30587,
     "short": 14379,
-    "longChange": 0,
-    "shortChange": -2364,
+    "longChange": -2189,
+    "shortChange": -1815,
     "netPositions": 16208
   },
   "105": {
@@ -949,8 +949,8 @@
     "date": "2024-07-02",
     "long": 32776,
     "short": 16194,
-    "longChange": 0,
-    "shortChange": 2480,
+    "longChange": 829,
+    "shortChange": 1769,
     "netPositions": 16582
   },
   "106": {
@@ -958,8 +958,8 @@
     "date": "2024-06-25",
     "long": 31947,
     "short": 14425,
-    "longChange": 0,
-    "shortChange": 2910,
+    "longChange": 1742,
+    "shortChange": 1815,
     "netPositions": 17522
   },
   "107": {
@@ -967,8 +967,8 @@
     "date": "2024-06-18",
     "long": 30205,
     "short": 12610,
-    "longChange": 0,
-    "shortChange": 1910,
+    "longChange": 3747,
+    "shortChange": -8835,
     "netPositions": 17595
   },
   "108": {
@@ -976,8 +976,8 @@
     "date": "2024-06-11",
     "long": 26458,
     "short": 21445,
-    "longChange": 0,
-    "shortChange": -318,
+    "longChange": -345,
+    "shortChange": -471,
     "netPositions": 5013
   },
   "109": {
@@ -985,8 +985,8 @@
     "date": "2024-06-04",
     "long": 26803,
     "short": 21916,
-    "longChange": 0,
-    "shortChange": -1463,
+    "longChange": -1522,
+    "shortChange": -2235,
     "netPositions": 4887
   },
   "110": {
@@ -994,8 +994,8 @@
     "date": "2024-05-28",
     "long": 28325,
     "short": 24151,
-    "longChange": 0,
-    "shortChange": 188,
+    "longChange": 33,
+    "shortChange": -623,
     "netPositions": 4174
   },
   "111": {
@@ -1003,8 +1003,8 @@
     "date": "2024-05-21",
     "long": 28292,
     "short": 24774,
-    "longChange": 0,
-    "shortChange": -2897,
+    "longChange": -1390,
+    "shortChange": -2473,
     "netPositions": 3518
   },
   "112": {
@@ -1012,8 +1012,8 @@
     "date": "2024-05-14",
     "long": 29682,
     "short": 27247,
-    "longChange": 0,
-    "shortChange": -145,
+    "longChange": 801,
+    "shortChange": 219,
     "netPositions": 2435
   },
   "113": {
@@ -1021,8 +1021,8 @@
     "date": "2024-05-07",
     "long": 28881,
     "short": 27028,
-    "longChange": 0,
-    "shortChange": -5822,
+    "longChange": -4712,
+    "shortChange": -6600,
     "netPositions": 1853
   },
   "114": {
@@ -1030,8 +1030,8 @@
     "date": "2024-04-30",
     "long": 33593,
     "short": 33628,
-    "longChange": 0,
-    "shortChange": 3059,
+    "longChange": 2246,
+    "shortChange": 2068,
     "netPositions": -35
   },
   "115": {
@@ -1039,8 +1039,8 @@
     "date": "2024-04-23",
     "long": 31347,
     "short": 31560,
-    "longChange": 0,
-    "shortChange": 1656,
+    "longChange": 1436,
+    "shortChange": 720,
     "netPositions": -213
   },
   "116": {
@@ -1048,8 +1048,8 @@
     "date": "2024-04-16",
     "long": 29911,
     "short": 30840,
-    "longChange": 0,
-    "shortChange": 3621,
+    "longChange": 3178,
+    "shortChange": 2965,
     "netPositions": -929
   },
   "117": {
@@ -1057,8 +1057,8 @@
     "date": "2024-04-09",
     "long": 26733,
     "short": 27875,
-    "longChange": 0,
-    "shortChange": 2318,
+    "longChange": 3052,
+    "shortChange": 2298,
     "netPositions": -1142
   },
   "118": {
@@ -1066,8 +1066,8 @@
     "date": "2024-04-02",
     "long": 23681,
     "short": 25577,
-    "longChange": 0,
-    "shortChange": 6133,
+    "longChange": 4467,
+    "shortChange": 5734,
     "netPositions": -1896
   },
   "119": {
@@ -1075,8 +1075,8 @@
     "date": "2024-03-26",
     "long": 19214,
     "short": 19843,
-    "longChange": 0,
-    "shortChange": 8178,
+    "longChange": 3641,
+    "shortChange": 4949,
     "netPositions": -629
   },
   "120": {
@@ -1084,8 +1084,8 @@
     "date": "2024-03-19",
     "long": 15573,
     "short": 14894,
-    "longChange": 0,
-    "shortChange": -2546,
+    "longChange": -1974,
+    "shortChange": 3533,
     "netPositions": 679
   },
   "121": {
@@ -1093,8 +1093,8 @@
     "date": "2024-03-12",
     "long": 17547,
     "short": 11361,
-    "longChange": 0,
-    "shortChange": -2085,
+    "longChange": -219,
+    "shortChange": -3306,
     "netPositions": 6186
   },
   "122": {
@@ -1102,8 +1102,8 @@
     "date": "2024-03-05",
     "long": 17766,
     "short": 14667,
-    "longChange": 0,
-    "shortChange": -1099,
+    "longChange": -1061,
+    "shortChange": -2077,
     "netPositions": 3099
   },
   "123": {
@@ -1111,8 +1111,8 @@
     "date": "2024-02-27",
     "long": 18827,
     "short": 16744,
-    "longChange": 0,
-    "shortChange": -409,
+    "longChange": 95,
+    "shortChange": -442,
     "netPositions": 2083
   },
   "124": {
@@ -1120,8 +1120,8 @@
     "date": "2024-02-20",
     "long": 18732,
     "short": 17186,
-    "longChange": 0,
-    "shortChange": -2269,
+    "longChange": -2364,
+    "shortChange": -1908,
     "netPositions": 1546
   },
   "125": {
@@ -1129,8 +1129,8 @@
     "date": "2024-02-13",
     "long": 21096,
     "short": 19094,
-    "longChange": 0,
-    "shortChange": 3025,
+    "longChange": 2622,
+    "shortChange": 2159,
     "netPositions": 2002
   },
   "126": {
@@ -1138,8 +1138,8 @@
     "date": "2024-02-06",
     "long": 18474,
     "short": 16935,
-    "longChange": 0,
-    "shortChange": 3463,
+    "longChange": 1236,
+    "shortChange": 69,
     "netPositions": 1539
   },
   "127": {
@@ -1147,8 +1147,8 @@
     "date": "2024-01-30",
     "long": 17238,
     "short": 16866,
-    "longChange": 0,
-    "shortChange": 1076,
+    "longChange": 712,
+    "shortChange": 1987,
     "netPositions": 372
   },
   "128": {
@@ -1156,8 +1156,8 @@
     "date": "2024-01-23",
     "long": 16526,
     "short": 14879,
-    "longChange": 0,
-    "shortChange": 1162,
+    "longChange": 1449,
+    "shortChange": 1102,
     "netPositions": 1647
   },
   "129": {
@@ -1165,8 +1165,8 @@
     "date": "2024-01-16",
     "long": 15077,
     "short": 13777,
-    "longChange": 0,
-    "shortChange": -377,
+    "longChange": -964,
+    "shortChange": 646,
     "netPositions": 1300
   },
   "130": {
@@ -1174,8 +1174,8 @@
     "date": "2024-01-09",
     "long": 16041,
     "short": 13131,
-    "longChange": 0,
-    "shortChange": -38,
+    "longChange": 100,
+    "shortChange": -387,
     "netPositions": 2910
   },
   "131": {
@@ -1183,8 +1183,8 @@
     "date": "2024-01-02",
     "long": 15941,
     "short": 13518,
-    "longChange": 0,
-    "shortChange": 1877,
+    "longChange": 894,
+    "shortChange": 1608,
     "netPositions": 2423
   }
 }
