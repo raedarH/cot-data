@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "cot-data",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

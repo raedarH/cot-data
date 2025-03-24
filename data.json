@@ -81,76 +81,76 @@
     "date": "2025-03-18",
     "longChange": -4312,
     "shortChange": 5335,
-    "netPositions": -64124
+    "netPositions": 7188
   },
   "12": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-03-11",
     "longChange": 184,
     "shortChange": -1913,
-    "netPositions": -64124
+    "netPositions": 16835
   },
   "13": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-03-04",
     "longChange": 1879,
     "shortChange": 2873,
-    "netPositions": -64124
+    "netPositions": 14738
   },
   "14": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-25",
     "longChange": -823,
     "shortChange": 213,
-    "netPositions": -64124
+    "netPositions": 15732
   },
   "15": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-18",
     "longChange": 468,
     "shortChange": -1004,
-    "netPositions": -64124
+    "netPositions": 16768
   },
   "16": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-11",
     "longChange": 1058,
     "shortChange": 301,
-    "netPositions": -64124
+    "netPositions": 15296
   },
   "17": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-04",
     "longChange": -169,
     "shortChange": -508,
-    "netPositions": -64124
+    "netPositions": 14539
   },
   "18": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-28",
     "longChange": -3439,
     "shortChange": -2767,
-    "netPositions": -64124
+    "netPositions": 14200
   },
   "19": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-21",
     "longChange": -701,
     "shortChange": -2844,
-    "netPositions": -64124
+    "netPositions": 14872
   },
   "20": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-14",
     "longChange": 1554,
     "shortChange": -2530,
-    "netPositions": -64124
+    "netPositions": 12729
   },
   "21": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-07",
     "longChange": 1360,
     "shortChange": -408,
-    "netPositions": -64124
+    "netPositions": 8645
   }
 }
