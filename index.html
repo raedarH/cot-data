@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+
+    <!-- Fonts -->
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind Script -->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+    <!-- Tailwind Style -->
+    <style type="text/tailwindcss">
+      @theme {
+        --font-body: 'Nunito', sans-serif;
+      }
+      .instrument-container {
+        @apply bg-gray-300 border flex flex-col min-w-[508px] overflow-hidden rounded;
+      }
+    </style>
+  </head>
+
+  <body class="font-body p-2">
+    <header class="bg-black rounded">
+      <h1 class="p-2 text-center text-white text-2xl">C.O.T In The Act</h1>
+    </header>
+
+    <main class="min-w-[1028px] my-2">
+      <section class="flex gap-2 justify-center overflow-hidden">
+        <!-- Euro FX -->
+        <section class="instrument-container">
+          <section>
+            <h2 class="bg-black p-1 text-center text-lg text-white">Euro Fx</h2>
+          </section>
+
+          <section
+            class="gap-4 grid grid-cols-4 p-4 text-sm"
+            id="eurofx"
+          >
+            <div class="text-base">Date</div>
+            <div class="text-base">Change Longs</div>
+            <div class="text-base">Change Shorts</div>
+            <div class="text-base">Net Positions</div>
+          </section>
+        </section>
+
+        <!-- USD INDEX -->
+        <section class="instrument-container">
+          <section>
+            <h2 class="bg-black p-1 text-center text-lg text-white">USD Fx</h2>
+          </section>
+
+          <section
+            class="gap-4 grid grid-cols-4 p-4 text-sm"
+            id="usdfx"
+          >
+            <div class="text-base">Date</div>
+            <div class="text-base">Change Longs</div>
+            <div class="text-base">Change Shorts</div>
+            <div class="text-base">Net Positions</div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
