@@ -2,6 +2,8 @@
   "0": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-03-18",
+    "long": 188952,
+    "short": 129527,
     "longChange": 305,
     "shortChange": -46030,
     "netPositions": 59425
@@ -9,6 +11,8 @@
   "1": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-03-11",
+    "long": 188647,
+    "short": 175557,
     "longChange": 3424,
     "shortChange": -19772,
     "netPositions": 13090
@@ -16,6 +20,8 @@
   "2": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-03-04",
+    "long": 185223,
+    "short": 195329,
     "longChange": 2524,
     "shortChange": -12795,
     "netPositions": -10106
@@ -23,6 +29,8 @@
   "3": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-02-25",
+    "long": 182699,
+    "short": 208124,
     "longChange": 12379,
     "shortChange": -13616,
     "netPositions": -25425
@@ -30,6 +38,8 @@
   "4": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-02-18",
+    "long": 170320,
+    "short": 221740,
     "longChange": 4726,
     "shortChange": -8279,
     "netPositions": -51420
@@ -37,6 +47,8 @@
   "5": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-02-11",
+    "long": 165594,
+    "short": 230019,
     "longChange": 3040,
     "shortChange": 8851,
     "netPositions": -64425
@@ -44,6 +56,8 @@
   "6": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-02-04",
+    "long": 162554,
+    "short": 221168,
     "longChange": 8894,
     "shortChange": 904,
     "netPositions": -58614
@@ -51,6 +65,8 @@
   "7": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-01-28",
+    "long": 153660,
+    "short": 220264,
     "longChange": -14005,
     "shortChange": -9887,
     "netPositions": -66604
@@ -58,6 +74,8 @@
   "8": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-01-21",
+    "long": 167665,
+    "short": 230151,
     "longChange": 4905,
     "shortChange": 6994,
     "netPositions": -62486
@@ -65,6 +83,8 @@
   "9": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-01-14",
+    "long": 162760,
+    "short": 223157,
     "longChange": -3743,
     "shortChange": -7470,
     "netPositions": -60397
@@ -72,6 +92,8 @@
   "10": {
     "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
     "date": "2025-01-07",
+    "long": 166503,
+    "short": 230627,
     "longChange": -2303,
     "shortChange": -7743,
     "netPositions": -64124
@@ -79,6 +101,8 @@
   "11": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-03-18",
+    "long": 23657,
+    "short": 16469,
     "longChange": -4312,
     "shortChange": 5335,
     "netPositions": 7188
@@ -86,6 +110,8 @@
   "12": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-03-11",
+    "long": 27969,
+    "short": 11134,
     "longChange": 184,
     "shortChange": -1913,
     "netPositions": 16835
@@ -93,6 +119,8 @@
   "13": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-03-04",
+    "long": 27785,
+    "short": 13047,
     "longChange": 1879,
     "shortChange": 2873,
     "netPositions": 14738
@@ -100,6 +128,8 @@
   "14": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-25",
+    "long": 25906,
+    "short": 10174,
     "longChange": -823,
     "shortChange": 213,
     "netPositions": 15732
@@ -107,6 +137,8 @@
   "15": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-18",
+    "long": 26729,
+    "short": 9961,
     "longChange": 468,
     "shortChange": -1004,
     "netPositions": 16768
@@ -114,6 +146,8 @@
   "16": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-11",
+    "long": 26261,
+    "short": 10965,
     "longChange": 1058,
     "shortChange": 301,
     "netPositions": 15296
@@ -121,6 +155,8 @@
   "17": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-02-04",
+    "long": 25203,
+    "short": 10664,
     "longChange": -169,
     "shortChange": -508,
     "netPositions": 14539
@@ -128,6 +164,8 @@
   "18": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-28",
+    "long": 25372,
+    "short": 11172,
     "longChange": -3439,
     "shortChange": -2767,
     "netPositions": 14200
@@ -135,6 +173,8 @@
   "19": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-21",
+    "long": 28811,
+    "short": 13939,
     "longChange": -701,
     "shortChange": -2844,
     "netPositions": 14872
@@ -142,6 +182,8 @@
   "20": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-14",
+    "long": 29512,
+    "short": 16783,
     "longChange": 1554,
     "shortChange": -2530,
     "netPositions": 12729
@@ -149,6 +191,8 @@
   "21": {
     "name": "USD INDEX - ICE FUTURES U.S.",
     "date": "2025-01-07",
+    "long": 27958,
+    "short": 19313,
     "longChange": 1360,
     "shortChange": -408,
     "netPositions": 8645

@@ -24,11 +24,15 @@ xhttp.onreadystatechange = function () {
 
       if (rawData[index].name.includes('EURO FX')) {
         eurofxEl.innerHTML += `<div>${rawData[index].date}</div>`;
+        eurofxEl.innerHTML += `<div>${rawData[index].long}</div>`;
+        eurofxEl.innerHTML += `<div>${rawData[index].short}</div>`;
         eurofxEl.innerHTML += `<div>${rawData[index].longChange}</div>`;
         eurofxEl.innerHTML += `<div>${rawData[index].shortChange}</div>`;
         eurofxEl.innerHTML += `<div>${rawData[index].netPositions}</div>`;
       } else if (rawData[index].name.includes('USD INDEX')) {
         usdfxEl.innerHTML += `<div>${rawData[index].date}</div>`;
+        usdfxEl.innerHTML += `<div>${rawData[index].long}</div>`;
+        usdfxEl.innerHTML += `<div>${rawData[index].short}</div>`;
         usdfxEl.innerHTML += `<div>${rawData[index].longChange}</div>`;
         usdfxEl.innerHTML += `<div>${rawData[index].shortChange}</div>`;
         usdfxEl.innerHTML += `<div>${rawData[index].netPositions}</div>`;
